@@ -30,10 +30,12 @@ This project analyzes 1,000 sales orders from **Ferns N Petals (FNP)** to identi
 
 ## Project Structure
 | File | Description |
-| `https://github.com/Purvibishnoi/FNP-Sales-Analysis/blob/main/FNP_Sales_Dashboard.xlsx | Excel dashboard containing full analysis(download to view) |
-| `Problem_Statement_FNP.pdf` | Original project problem statement |
-| `Summary.pdf` | Executive summary with complete insights |
-| `dashboard screenshot.png` | Dashboard preview |
+|------|--------------|
+| [📊 FNP_Sales_Dashboard.xlsx](https://github.com/Purvibishnoi/FNP-Sales-Analysis/blob/main/FNP_Sales_Dashboard.xlsx) | Excel dashboard containing full analysis (download to view) |
+| [📄 Problem_Statement_FNP.pdf](https://github.com/Purvibishnoi/FNP-Sales-Analysis/blob/main/Problem_Statement_FNP.pdf) | Original project problem statement |
+| [🧾 Summary.pdf](https://github.com/Purvibishnoi/FNP-Sales-Analysis/blob/main/Summary.pdf) | Executive summary with complete insights |
+| [📷 dashboard_screenshot.png](https://github.com/Purvibishnoi/FNP-Sales-Analysis/blob/main/dashboard_screenshot.png) | Dashboard preview |
+
 
 ---
 
